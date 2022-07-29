@@ -31,7 +31,7 @@ let trackList = [
     name: "SONG 2",
     artist: "udin",
     pathImage: "../assets/img/image1.jpg",
-    pathSong: "../assets/song/song2.mp3",
+    pathSong: "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/001.mp3",
   },
   {
     name: "SONG 3",
