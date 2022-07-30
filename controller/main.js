@@ -25,25 +25,25 @@ let trackList = [
     name: "GO CRY GO",
     artist: "Overlord",
     pathImage: "assets/img/image1.jpg",
-    pathSong: "../assets/song/song1.mp3",
+    pathSong: "assets/song/song1.mp3",
   },
   {
     name: "SONG 2",
     artist: "udin",
     pathImage: "../assets/img/image1.jpg",
-    pathSong: "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/001.mp3",
+    pathSong: "assets/song/song2.mp3",
   },
   {
     name: "SONG 3",
     artist: "ucok",
-    pathImage: "../assets/img/image1.jpg",
-    pathSong: "../assets/song/song3.mp3",
+    pathImage: "assets/img/image1.jpg",
+    pathSong: "assets/song/song3.mp3",
   },
   {
     name: "SONG 4",
     artist: "udin2",
-    pathImage: "../assets/img/image1.jpg",
-    pathSong: "../assets/song/song4.mp3",
+    pathImage: "assets/img/image1.jpg",
+    pathSong: "assets/song/song4.mp3",
   },
 ];
 
