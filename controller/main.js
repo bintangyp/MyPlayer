@@ -24,7 +24,7 @@ let trackList = [
   {
     name: "GO CRY GO",
     artist: "Overlord",
-    pathImage: "../assets/img/image1.jpg",
+    pathImage: "assets/img/image1.jpg",
     pathSong: "../assets/song/song1.mp3",
   },
   {
